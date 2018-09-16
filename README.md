@@ -1,10 +1,10 @@
 # Talk Scheduler Code​ ​Challenge  
-This is a spring boot console application. When you run ChallengeApplication class as a Java application then it asks for below two inputs:
-PLEASE PROVIDE INPUT FILE'S FILENAME AND ABSOLUTE PATH. e.g /Users/Mohit.Saluja/Desktop/scope/Sessions.txt
-PLEASE PROVIDE OUTPUT FILE'S FILENAME AND ABSOLUTE PATH. e.g /Users/Mohit.Saluja/Desktop/scope/Sessions-output.txt
-
-Once you provide input and output file, this project schedules input talks/sessions to the workshop/meeting rooms.
-
+This is a spring boot console application. When you run ChallengeApplication class as a Java application then it asks for below two inputs:     
+PLEASE PROVIDE INPUT FILE'S FILENAME AND ABSOLUTE PATH. e.g /Users/Mohit.Saluja/Desktop/scope/Sessions.txt    
+PLEASE PROVIDE OUTPUT FILE'S FILENAME AND ABSOLUTE PATH. e.g /Users/Mohit.Saluja/Desktop/scope/Sessions-output.txt    
+    
+Once you provide input and output file, this project schedules input talks/sessions to the workshop/meeting rooms.    
+    
 ## Task:
 
 Task is to write a software that helps in scheduling sessions for workshops. 
