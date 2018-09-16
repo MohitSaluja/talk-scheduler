@@ -10,21 +10,21 @@ Once you provide input and output file, this project schedules input talks/sessi
 
 Task is to write a software that helps in scheduling sessions for workshops. 
 
-● The workshop has multiple tracks each of which has a morning and afternoon session.\
+● The workshop has multiple tracks each of which has a morning and afternoon session.
 
-● Each session contains multiple talks.\
+● Each session contains multiple talks.
 
-● Morning sessions begin at 9am and must finish by 12 noon, for lunch.\
+● Morning sessions begin at 9am and must finish by 12 noon, for lunch.
 
-● Afternoon sessions begin at 1pm and must finish in time for the Meet Your Colleagues Event.\
+● Afternoon sessions begin at 1pm and must finish in time for the Meet Your Colleagues Event.
 
-● The Meet Your Colleagues Event can start no earlier than 4:00PM and no later than 5:00PM.\
+● The Meet Your Colleagues Event can start no earlier than 4:00PM and no later than 5:00PM.
 
-● No talk title has numbers in it.\
+● No talk title has numbers in it.
 
-● All talk lengths are either in minutes or lightning (5 minutes).\
+● All talk lengths are either in minutes or lightning (5 minutes).
 
-● Presenters will be very punctual; there needs to be no gap between sessions.\
+● Presenters will be very punctual; there needs to be no gap between sessions.
 
 
 ### Sample Input file:  
@@ -47,7 +47,7 @@ Living in Berlin 30min\
 Working with Azure 30min\
 Maintain Java Code 60min\
 Better Way of reading Books 30min\
-What you need to know about ExtJS 30min\
+What you need to know about ExtJS 30min
 
 
 ### Sample output file:  
@@ -76,7 +76,7 @@ Track 2:\
 3:00 PM Working with Azure 30min\
 3:30 PM Better Way of reading Books 30min\
 4:00 PM What you need to know about ExtJS 30min\
-4:30 PM Meet Your Colleagues Event\
+4:30 PM Meet Your Colleagues Event
 
 
 #### Configuratons:  
